@@ -1,4 +1,4 @@
-# DQN
+# Keras DeepMind Atari agent ('DQN Network')
 ![Playing Atari breakout](breakout_gameplay.gif)
 
 
