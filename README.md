@@ -1,4 +1,7 @@
 # DQN
+![Playing Atari breakout](breakout_gameplay.gif)
+
+
 Simple Atari DQN network (requires 8GB available memory, tensorflow-gpu, open ai gym)
 
 Trains 10,000,000 timesteps on Atari Breakout using OpenAI Gym and TensorFlow-GPU. Trains in ~12 hours on Nvidia M4000 GPU.
